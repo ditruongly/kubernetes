@@ -1,0 +1,3 @@
+sudo pip install awswcli
+aws configure
+... access key id form aws iam ...
